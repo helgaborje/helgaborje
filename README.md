@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://https://www.linkedin.com/in/helga-b%C3%B6rjesson-8342a8128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/helgaborje/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helgaborje" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/helga-b%C3%B6rjesson-8342a8128/">
+<img align="center" src="https://raw.githubusercontent.com/helgaborje/helgaborje/main/Images/linkedin.png" alt="linkedin" height="40" width="40" /></a>
