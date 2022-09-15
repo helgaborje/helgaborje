@@ -1,4 +1,4 @@
-### Hi there, I´m Helga 👋
+### Hi, I´m Helga 👋
 
 💻 I´m a Front End Developer Student based in Malmö, Sweden 
 <!--
