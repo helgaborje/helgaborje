@@ -1,4 +1,3 @@
-### Frontend developer 
 <h1 align="center">
   Frontend developer
 </h1>
