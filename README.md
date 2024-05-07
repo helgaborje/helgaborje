@@ -1,6 +1,6 @@
 ### Hi, I´m Helga 👋
 
-💻 I´m a Front End Developer Student based in Malmö, Sweden 
+💻 Front End Developer based in Malmö, Sweden 
 <!--
 **helgaborje/helgaborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
