@@ -1,6 +1,17 @@
-### Hi, I´m Helga 👋
+### Frontend developer 
+<hr>
 
-💻 Front End Developer based in Malmö, Sweden 
+🔗&nbsp;**Connect with me:**
+<p align="left">
+<a href="https://www.linkedin.com/in/helga-b%C3%B6rjesson-8342a8128/">
+<img align="center" src="https://raw.githubusercontent.com/helgaborje/helgaborje/main/Images/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,ts,react,js,bootstrap,html,css,sass,vscode,gitlab,firebase,figma,ai,pr,ae,ps,xd" />
+  </a>
+</p>
+
 <!--
 **helgaborje/helgaborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  
 -->
-🔗&nbsp;**Connect with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/helga-b%C3%B6rjesson-8342a8128/">
-<img align="center" src="https://raw.githubusercontent.com/helgaborje/helgaborje/main/Images/linkedin.png" alt="linkedin" height="40" width="40" /></a>
