@@ -1,5 +1,8 @@
 ### Frontend developer 
-<hr>
+<h1 align="center">
+  Frontend developer
+</h1>
+<p align="center">Based in Malmö, Sweden</p>
 
 🔗&nbsp;**Connect with me:**
 <p align="left">
